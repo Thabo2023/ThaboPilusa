@@ -15,4 +15,4 @@ University of the Witwatersrand, [2024]
 Contact Me:
 LinkedIn: www.linkedin.com/in/thabo-pilusa-6a757623a
 GitHub: https://github.com/Thabo2023
-Email: your.email@example.com
+Email: pilusajustin@gmail.com
