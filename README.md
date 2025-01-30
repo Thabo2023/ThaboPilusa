@@ -1,4 +1,4 @@
-Hello, I'm Thabo Pilusa. 
+
 
 About Me:
 I am currently pursuing an MSc in Physics with a focus on Machine Learning and Data Analysis. I have a strong background in theoretical physics and practical experience in statistical analysis.
