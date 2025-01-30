@@ -7,7 +7,7 @@ Skills:
 Machine Learning: Supervised/unsupervised learning, neural networks.
 Data Analysis: Extracting insights, visualization.
 Statistics: Hypothesis testing.
-Programming: Python, C.
+Programming: Python, C++.
 
 Education:
 University of the Witwatersrand, [2024]
