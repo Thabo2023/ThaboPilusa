@@ -1,18 +1,20 @@
 
 
 About Me:
-I am currently pursuing an MSc in Physics with a focus on Machine Learning and Data Analysis. I have a strong background in theoretical physics and practical experience in statistical analysis.
+I'm an MSc in Physics graduate with a focus on Machine Learning and Data Analysis. My skils trancend heavens and outlining them one by one would be an understatement, so please see them for yourself, feel free to checkout my repositories and have fun.
 
 Skills:
-Machine Learning: Supervised/unsupervised learning, neural networks.
+Machine Learning (ML): Tensorflow, Pytorch, Keras and my favourite ML model up to date is TabPFN! 
+                       (https://github.com/PriorLabs/TabPFN)
 Data Analysis: Extracting insights, visualization.
-Statistics: Hypothesis testing.
-Programming: Python, C++.
+Statistics: Hypothesis testing, significance and p-values.
+Programming: Python, C++, SQL
+Data Visualisation: Matplotlib, Seaborn, PowerBI
+Cloud Technologies: AWS, Google Cloud
 
 Education:
-University of the Witwatersrand, [2024]
+MSc (Physics) University of the Witwatersrand, South Africa [2024]
 
-Contact Me:
-LinkedIn: www.linkedin.com/in/thabo-pilusa-6a757623a
-GitHub: https://github.com/Thabo2023
+Feel free to contact me:
+Linkedin: www.linkedin.com/in/thabo-pilusa-6a757623a
 Email: pilusajustin@gmail.com
