@@ -1,6 +1,6 @@
 
 
-About Me:
+
 I'm an MSc in Physics graduate with a focus on Machine Learning and Data Analysis. My skils trancend heavens and outlining them one by one would be an understatement, so please see them for yourself, feel free to checkout my repositories and have fun.
 
 Skills:
